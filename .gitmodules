@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ALUES"]
 	path = ALUES
 	url = https://github.com/alstat/alues
-	shallow = true
-	registered = true
